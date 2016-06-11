@@ -3,8 +3,8 @@
 #### Getting Started
 
 ```
-  > git clone git@github.com:nicholaspsmith/ReactStarter.git
-  > cd ReactStarter
+  > git clone git@github.com:nicholaspsmith/ReactSearch.git
+  > cd ReactSearch
   > npm install
   > npm start
 ```
